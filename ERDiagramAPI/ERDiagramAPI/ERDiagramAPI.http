@@ -1,0 +1,6 @@
+@ERDiagramAPI_HostAddress = http://localhost:5119
+
+GET {{ERDiagramAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

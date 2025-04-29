@@ -1,0 +1,380 @@
+2025-04-10 10:40:28.4940 Debug Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'. 
+2025-04-10 10:40:28.5298 Debug Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'. 
+2025-04-10 10:40:28.5298 Debug Initializing Razor view compiler with compiled view: '/Views/Home/View.cshtml'. 
+2025-04-10 10:40:28.5298 Debug Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'. 
+2025-04-10 10:40:28.5298 Debug Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'. 
+2025-04-10 10:40:28.5298 Debug Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'. 
+2025-04-10 10:40:28.5298 Debug Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'. 
+2025-04-10 10:40:28.5298 Debug Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'. 
+2025-04-10 10:40:28.5508 Debug Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2025-04-10 10:40:28.6726 Debug Hosting starting 
+2025-04-10 10:40:28.7755 Info User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-04-10 10:40:28.8558 Debug Reading data from file 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys\key-94782030-2be5-4539-a5b3-c3586b104bf2.xml'. 
+2025-04-10 10:40:28.8780 Debug Found key {94782030-2be5-4539-a5b3-c3586b104bf2}. 
+2025-04-10 10:40:28.9048 Debug Considering key {94782030-2be5-4539-a5b3-c3586b104bf2} with expiration date 2025-07-02 10:10:34Z as default key. 
+2025-04-10 10:40:28.9048 Debug Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-04-10 10:40:28.9048 Debug Decrypting secret element using Windows DPAPI. 
+2025-04-10 10:40:28.9048 Debug Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-04-10 10:40:28.9048 Debug Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2025-04-10 10:40:28.9048 Debug Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2025-04-10 10:40:28.9048 Debug Using key {94782030-2be5-4539-a5b3-c3586b104bf2} as the default key. 
+2025-04-10 10:40:28.9048 Debug Key ring with default key {94782030-2be5-4539-a5b3-c3586b104bf2} was loaded during application startup. 
+2025-04-10 10:40:28.9221 Debug Middleware loaded 
+2025-04-10 10:40:28.9221 Debug Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16515 B). 
+2025-04-10 10:40:28.9221 Debug Middleware loaded. Script /_framework/blazor-hotreload.js (799 B). 
+2025-04-10 10:40:29.0882 Debug Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True} 
+2025-04-10 10:40:29.0882 Debug Wildcard detected, all requests with hosts will be allowed. 
+2025-04-10 10:40:29.1112 Debug Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true 
+2025-04-10 10:40:29.1112 Debug Loaded hosting startup assembly WebApplication3 
+2025-04-10 10:40:29.1112 Debug Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2025-04-10 10:40:29.1112 Debug Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2025-04-10 10:40:29.1112 Debug Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2025-04-10 10:40:29.1249 Debug Executing API description provider 'EndpointMetadataApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0. 
+2025-04-10 10:40:29.1516 Debug Executing API description provider 'DefaultApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0. 
+2025-04-10 10:40:29.2383 Info Application started. Press Ctrl+C to shut down. 
+2025-04-10 10:40:29.2383 Info Hosting environment: Development 
+2025-04-10 10:40:29.2383 Info Content root path: C:\Users\user\source\repos\WebApplication3\WebApplication3 
+2025-04-10 10:40:29.2383 Debug Hosting started 
+2025-04-10 10:40:29.2772 Info Request starting HTTP/2 GET https://localhost:44304/ - - - 
+2025-04-10 10:40:29.5844 Debug 2 candidate(s) found for the request path '/' 
+2025-04-10 10:40:29.5844 Debug Endpoint 'WebApplication3.Controllers.HomeController.Index (WebApplication3)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/' 
+2025-04-10 10:40:29.5844 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' was rejected by constraint 'path':'Microsoft.AspNetCore.Builder.StaticAssetDevelopmentRuntimeHandler+FileExistsConstraint' with value '(null)' for the request path '/' 
+2025-04-10 10:40:29.5844 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is not valid for the request path '/' 
+2025-04-10 10:40:29.5844 Debug Request matched endpoint 'WebApplication3.Controllers.HomeController.Index (WebApplication3)' 
+2025-04-10 10:40:29.5844 Info Executing endpoint 'WebApplication3.Controllers.HomeController.Index (WebApplication3)' 
+2025-04-10 10:40:29.6314 Info Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller WebApplication3.Controllers.HomeController (WebApplication3). 
+2025-04-10 10:40:29.6314 Debug Execution plan of authorization filters (in the following order): None 
+2025-04-10 10:40:29.6314 Debug Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-04-10 10:40:29.6314 Debug Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2025-04-10 10:40:29.6314 Debug Execution plan of exception filters (in the following order): None 
+2025-04-10 10:40:29.6314 Debug Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-04-10 10:40:29.6314 Debug Executing controller factory for controller WebApplication3.Controllers.HomeController (WebApplication3) 
+2025-04-10 10:40:29.6314 Debug Executed controller factory for controller WebApplication3.Controllers.HomeController (WebApplication3) 
+2025-04-10 10:40:29.6374 Info this is info log 
+2025-04-10 10:40:29.6374 Error this is error log 
+2025-04-10 10:40:29.6374 Debug this is debut log 
+2025-04-10 10:40:29.6374 Warn this is warning log 
+2025-04-10 10:40:29.6374 Debug View lookup cache miss for view 'Index' in controller 'Home'. 
+2025-04-10 10:40:29.6579 Info Executing ViewResult, running view Index. 
+2025-04-10 10:40:29.6771 Debug The view path '/Views/Home/Index.cshtml' was found in 8.4191ms. 
+2025-04-10 10:40:29.7197 Debug View lookup cache miss for view '_Layout' in controller 'Home'. 
+2025-04-10 10:40:29.7888 Debug Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Index],controller=[Home]) 
+2025-04-10 10:40:29.7888 Debug Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and  
+2025-04-10 10:40:29.7888 Debug Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result / 
+2025-04-10 10:40:29.7888 Debug Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Index],controller=[Home]) 
+2025-04-10 10:40:29.7888 Debug Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and  
+2025-04-10 10:40:29.7888 Debug Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result / 
+2025-04-10 10:40:29.7888 Debug Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Privacy],controller=[Home]) 
+2025-04-10 10:40:29.7931 Debug Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and  
+2025-04-10 10:40:29.7931 Debug Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Privacy 
+2025-04-10 10:40:29.7931 Debug Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Mounika],controller=[Home]) 
+2025-04-10 10:40:29.7931 Debug Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Mounika and  
+2025-04-10 10:40:29.7931 Debug Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Mounika 
+2025-04-10 10:40:29.7931 Debug Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Privacy],controller=[Home]) 
+2025-04-10 10:40:29.7931 Debug Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and  
+2025-04-10 10:40:29.7931 Debug Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Privacy 
+2025-04-10 10:40:29.8220 Debug Response markup is scheduled to include Browser Link script injection. 
+2025-04-10 10:40:29.8261 Debug Response markup is scheduled to include browser refresh script injection. 
+2025-04-10 10:40:29.8411 Info Executed ViewResult - view Index executed in 191.6501ms. 
+2025-04-10 10:40:29.8411 Info Executed action WebApplication3.Controllers.HomeController.Index (WebApplication3) in 211.6398ms 
+2025-04-10 10:40:29.8411 Info Executed endpoint 'WebApplication3.Controllers.HomeController.Index (WebApplication3)' 
+2025-04-10 10:40:29.8411 Debug Response markup was updated to include Browser Link script injection. 
+2025-04-10 10:40:29.8411 Debug Response markup was updated to include browser refresh script injection. 
+2025-04-10 10:40:29.8616 Info Request finished HTTP/2 GET https://localhost:44304/ - 200 - text/html;+charset=utf-8 591.2591ms 
+2025-04-10 10:40:29.8851 Info Request starting HTTP/2 GET https://localhost:44304/lib/bootstrap/dist/css/bootstrap.min.css - - - 
+2025-04-10 10:40:29.8877 Info Request starting HTTP/2 GET https://localhost:44304/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - - - 
+2025-04-10 10:40:29.8877 Debug 3 candidate(s) found for the request path '/lib/bootstrap/dist/css/bootstrap.min.css' 
+2025-04-10 10:40:29.8877 Debug 3 candidate(s) found for the request path '/css/site.css' 
+2025-04-10 10:40:29.8877 Debug Endpoint '(null)' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css' 
+2025-04-10 10:40:29.8877 Debug Endpoint '(null)' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css' 
+2025-04-10 10:40:29.8877 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css' 
+2025-04-10 10:40:29.8877 Debug Endpoint '(null)' with route pattern 'css/site.css' is valid for the request path '/css/site.css' 
+2025-04-10 10:40:29.8877 Debug Endpoint '(null)' with route pattern 'css/site.css' is valid for the request path '/css/site.css' 
+2025-04-10 10:40:29.8877 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/css/site.css' 
+2025-04-10 10:40:29.8877 Debug Request matched endpoint '(null)' 
+2025-04-10 10:40:29.8877 Debug Request matched endpoint '(null)' 
+2025-04-10 10:40:29.8877 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:29.8877 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:29.9233 Info Sending file. Request path: 'css/site.css'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\y1s7yu9eil-b9sayid5wm.gz' 
+2025-04-10 10:40:29.9233 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:29.9233 Info Request finished HTTP/2 GET https://localhost:44304/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 35.8450ms 
+2025-04-10 10:40:29.9367 Info Request starting HTTP/2 GET https://localhost:44304/WebApplication3.styles.css?v=GraljAiQirUzI9XnuKdLpKSoCrkyLHZItdPpPmW9wrA - - - 
+2025-04-10 10:40:29.9367 Debug 3 candidate(s) found for the request path '/WebApplication3.styles.css' 
+2025-04-10 10:40:29.9367 Debug Endpoint '(null)' with route pattern 'WebApplication3.styles.css' is valid for the request path '/WebApplication3.styles.css' 
+2025-04-10 10:40:29.9367 Debug Endpoint '(null)' with route pattern 'WebApplication3.styles.css' is valid for the request path '/WebApplication3.styles.css' 
+2025-04-10 10:40:29.9367 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/WebApplication3.styles.css' 
+2025-04-10 10:40:29.9367 Debug Request matched endpoint '(null)' 
+2025-04-10 10:40:29.9367 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:29.9367 Info Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\783qsna9z0-46ein0sx1k.gz' 
+2025-04-10 10:40:29.9367 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:29.9367 Info Sending file. Request path: 'WebApplication3.styles.css'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\f4wgbepiu1-6lu1x1s5fs.gz' 
+2025-04-10 10:40:29.9367 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:29.9367 Info Request finished HTTP/2 GET https://localhost:44304/WebApplication3.styles.css?v=GraljAiQirUzI9XnuKdLpKSoCrkyLHZItdPpPmW9wrA - 200 1166 text/css 1.6651ms 
+2025-04-10 10:40:29.9367 Info Request starting HTTP/2 GET https://localhost:44304/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - - - 
+2025-04-10 10:40:29.9367 Info Request starting HTTP/2 GET https://localhost:44304/lib/jquery/dist/jquery.min.js - - - 
+2025-04-10 10:40:29.9367 Debug 3 candidate(s) found for the request path '/js/site.js' 
+2025-04-10 10:40:29.9367 Debug Endpoint '(null)' with route pattern 'js/site.js' is valid for the request path '/js/site.js' 
+2025-04-10 10:40:29.9367 Debug Endpoint '(null)' with route pattern 'js/site.js' is valid for the request path '/js/site.js' 
+2025-04-10 10:40:29.9367 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/js/site.js' 
+2025-04-10 10:40:29.9367 Debug Request matched endpoint '(null)' 
+2025-04-10 10:40:29.9367 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:29.9367 Debug 3 candidate(s) found for the request path '/lib/jquery/dist/jquery.min.js' 
+2025-04-10 10:40:29.9367 Debug Endpoint '(null)' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js' 
+2025-04-10 10:40:29.9367 Debug Endpoint '(null)' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js' 
+2025-04-10 10:40:29.9367 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/jquery/dist/jquery.min.js' 
+2025-04-10 10:40:29.9367 Debug Request matched endpoint '(null)' 
+2025-04-10 10:40:29.9367 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:29.9367 Info Sending file. Request path: 'js/site.js'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\fjx8vsb7m8-xtxxf3hu2r.gz' 
+2025-04-10 10:40:29.9367 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:29.9367 Info Request finished HTTP/2 GET https://localhost:44304/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 6.6600ms 
+2025-04-10 10:40:29.9367 Info Request starting HTTP/2 GET https://localhost:44304/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 
+2025-04-10 10:40:29.9367 Debug 3 candidate(s) found for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js' 
+2025-04-10 10:40:29.9367 Debug Endpoint '(null)' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js' 
+2025-04-10 10:40:29.9367 Debug Endpoint '(null)' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js' 
+2025-04-10 10:40:29.9367 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js' 
+2025-04-10 10:40:29.9367 Debug Request matched endpoint '(null)' 
+2025-04-10 10:40:29.9367 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:30.0142 Info Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\xnuldfdea4-493y06b0oq.gz' 
+2025-04-10 10:40:30.0142 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:30.0142 Info Request starting HTTP/2 GET https://localhost:44304/_vs/browserLink - - - 
+2025-04-10 10:40:30.0142 Info Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\ys5h6wrjvt-o1o13a6vjx.gz' 
+2025-04-10 10:40:30.0142 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:40:30.0142 Info Request starting HTTP/2 GET https://localhost:44304/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-10 10:40:30.0142 Debug Script injected: /_framework/aspnetcore-browser-refresh.js 
+2025-04-10 10:40:30.0142 Info Request finished HTTP/2 GET https://localhost:44304/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript;+charset=utf-8 2.8748ms 
+2025-04-10 10:40:30.0142 Info Request finished HTTP/2 GET https://localhost:44304/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 139.6203ms 
+2025-04-10 10:40:30.0405 Info Request finished HTTP/2 GET https://localhost:44304/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 94.7699ms 
+2025-04-10 10:40:30.0600 Info Request finished HTTP/2 GET https://localhost:44304/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 120.8781ms 
+2025-04-10 10:40:30.1912 Debug Connection ID "17726168139235852289" disconnecting. 
+2025-04-10 10:40:30.1912 Info Request finished HTTP/2 GET https://localhost:44304/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 179.1947ms 
+2025-04-10 10:43:28.4712 Debug Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'. 
+2025-04-10 10:43:28.4952 Debug Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'. 
+2025-04-10 10:43:28.4952 Debug Initializing Razor view compiler with compiled view: '/Views/Home/View.cshtml'. 
+2025-04-10 10:43:28.4952 Debug Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'. 
+2025-04-10 10:43:28.4952 Debug Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'. 
+2025-04-10 10:43:28.4952 Debug Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'. 
+2025-04-10 10:43:28.4952 Debug Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'. 
+2025-04-10 10:43:28.4952 Debug Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'. 
+2025-04-10 10:43:28.5042 Debug Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2025-04-10 10:43:28.5600 Debug Hosting starting 
+2025-04-10 10:43:28.5865 Info User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-04-10 10:43:28.6015 Debug Reading data from file 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys\key-94782030-2be5-4539-a5b3-c3586b104bf2.xml'. 
+2025-04-10 10:43:28.6083 Debug Found key {94782030-2be5-4539-a5b3-c3586b104bf2}. 
+2025-04-10 10:43:28.6083 Debug Considering key {94782030-2be5-4539-a5b3-c3586b104bf2} with expiration date 2025-07-02 10:10:34Z as default key. 
+2025-04-10 10:43:28.6083 Debug Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-04-10 10:43:28.6231 Debug Decrypting secret element using Windows DPAPI. 
+2025-04-10 10:43:28.6231 Debug Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-04-10 10:43:28.6231 Debug Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2025-04-10 10:43:28.6231 Debug Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2025-04-10 10:43:28.6231 Debug Using key {94782030-2be5-4539-a5b3-c3586b104bf2} as the default key. 
+2025-04-10 10:43:28.6231 Debug Key ring with default key {94782030-2be5-4539-a5b3-c3586b104bf2} was loaded during application startup. 
+2025-04-10 10:43:28.6231 Debug Middleware loaded 
+2025-04-10 10:43:28.6231 Debug Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16515 B). 
+2025-04-10 10:43:28.6231 Debug Middleware loaded. Script /_framework/blazor-hotreload.js (799 B). 
+2025-04-10 10:43:28.7569 Debug Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True} 
+2025-04-10 10:43:28.7569 Debug Wildcard detected, all requests with hosts will be allowed. 
+2025-04-10 10:43:28.7692 Debug Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true 
+2025-04-10 10:43:28.7692 Debug Loaded hosting startup assembly WebApplication3 
+2025-04-10 10:43:28.7692 Debug Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2025-04-10 10:43:28.7692 Debug Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2025-04-10 10:43:28.7692 Debug Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2025-04-10 10:43:28.8001 Debug Executing API description provider 'EndpointMetadataApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0. 
+2025-04-10 10:43:28.8001 Debug Executing API description provider 'DefaultApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0. 
+2025-04-10 10:43:28.8546 Info Request starting HTTP/2 GET https://localhost:44304/ - - - 
+2025-04-10 10:43:28.8840 Info Application started. Press Ctrl+C to shut down. 
+2025-04-10 10:43:28.8840 Info Hosting environment: Development 
+2025-04-10 10:43:28.8906 Info Content root path: C:\Users\user\source\repos\WebApplication3\WebApplication3 
+2025-04-10 10:43:28.8906 Debug Hosting started 
+2025-04-10 10:43:29.0857 Debug 2 candidate(s) found for the request path '/' 
+2025-04-10 10:43:29.0857 Debug Endpoint 'WebApplication3.Controllers.HomeController.Index (WebApplication3)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/' 
+2025-04-10 10:43:29.0857 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' was rejected by constraint 'path':'Microsoft.AspNetCore.Builder.StaticAssetDevelopmentRuntimeHandler+FileExistsConstraint' with value '(null)' for the request path '/' 
+2025-04-10 10:43:29.0857 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is not valid for the request path '/' 
+2025-04-10 10:43:29.0857 Debug Request matched endpoint 'WebApplication3.Controllers.HomeController.Index (WebApplication3)' 
+2025-04-10 10:43:29.0912 Info Executing endpoint 'WebApplication3.Controllers.HomeController.Index (WebApplication3)' 
+2025-04-10 10:43:29.1224 Info Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller WebApplication3.Controllers.HomeController (WebApplication3). 
+2025-04-10 10:43:29.1224 Debug Execution plan of authorization filters (in the following order): None 
+2025-04-10 10:43:29.1224 Debug Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-04-10 10:43:29.1224 Debug Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2025-04-10 10:43:29.1224 Debug Execution plan of exception filters (in the following order): None 
+2025-04-10 10:43:29.1224 Debug Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-04-10 10:43:29.1224 Debug Executing controller factory for controller WebApplication3.Controllers.HomeController (WebApplication3) 
+2025-04-10 10:43:29.1224 Debug Executed controller factory for controller WebApplication3.Controllers.HomeController (WebApplication3) 
+2025-04-10 10:43:29.1395 Info this is info log 
+2025-04-10 10:43:29.1395 Error this is error log 
+2025-04-10 10:43:29.1395 Debug this is debut log 
+2025-04-10 10:43:29.1548 Warn this is warning log 
+2025-04-10 10:43:29.1548 Debug View lookup cache miss for view 'Index' in controller 'Home'. 
+2025-04-10 10:43:29.1548 Info Executing ViewResult, running view Index. 
+2025-04-10 10:43:29.1760 Debug The view path '/Views/Home/Index.cshtml' was found in 5.9721ms. 
+2025-04-10 10:43:29.2053 Debug View lookup cache miss for view '_Layout' in controller 'Home'. 
+2025-04-10 10:43:29.2516 Debug Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Index],controller=[Home]) 
+2025-04-10 10:43:29.2516 Debug Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and  
+2025-04-10 10:43:29.2516 Debug Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result / 
+2025-04-10 10:43:29.2516 Debug Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Index],controller=[Home]) 
+2025-04-10 10:43:29.2516 Debug Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and  
+2025-04-10 10:43:29.2516 Debug Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result / 
+2025-04-10 10:43:29.2516 Debug Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Privacy],controller=[Home]) 
+2025-04-10 10:43:29.2516 Debug Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and  
+2025-04-10 10:43:29.2516 Debug Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Privacy 
+2025-04-10 10:43:29.2516 Debug Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Mounika],controller=[Home]) 
+2025-04-10 10:43:29.2516 Debug Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Mounika and  
+2025-04-10 10:43:29.2516 Debug Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Mounika 
+2025-04-10 10:43:29.2516 Debug Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Privacy],controller=[Home]) 
+2025-04-10 10:43:29.2516 Debug Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and  
+2025-04-10 10:43:29.2516 Debug Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Privacy 
+2025-04-10 10:43:29.2629 Debug Response markup is scheduled to include Browser Link script injection. 
+2025-04-10 10:43:29.2629 Debug Response markup is scheduled to include browser refresh script injection. 
+2025-04-10 10:43:29.2789 Info Executed ViewResult - view Index executed in 120.8714ms. 
+2025-04-10 10:43:29.2789 Info Executed action WebApplication3.Controllers.HomeController.Index (WebApplication3) in 159.1129ms 
+2025-04-10 10:43:29.2789 Info Executed endpoint 'WebApplication3.Controllers.HomeController.Index (WebApplication3)' 
+2025-04-10 10:43:29.2789 Debug Response markup was updated to include Browser Link script injection. 
+2025-04-10 10:43:29.2789 Debug Response markup was updated to include browser refresh script injection. 
+2025-04-10 10:43:29.2985 Info Request finished HTTP/2 GET https://localhost:44304/ - 200 - text/html;+charset=utf-8 450.8583ms 
+2025-04-10 10:43:29.3199 Info Request starting HTTP/2 GET https://localhost:44304/WebApplication3.styles.css?v=GraljAiQirUzI9XnuKdLpKSoCrkyLHZItdPpPmW9wrA - - - 
+2025-04-10 10:43:29.3199 Info Request starting HTTP/2 GET https://localhost:44304/lib/bootstrap/dist/css/bootstrap.min.css - - - 
+2025-04-10 10:43:29.3245 Debug 3 candidate(s) found for the request path '/lib/bootstrap/dist/css/bootstrap.min.css' 
+2025-04-10 10:43:29.3245 Debug 3 candidate(s) found for the request path '/WebApplication3.styles.css' 
+2025-04-10 10:43:29.3245 Debug Endpoint '(null)' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css' 
+2025-04-10 10:43:29.3245 Debug Endpoint '(null)' with route pattern 'WebApplication3.styles.css' is valid for the request path '/WebApplication3.styles.css' 
+2025-04-10 10:43:29.3245 Debug Endpoint '(null)' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css' 
+2025-04-10 10:43:29.3245 Debug Endpoint '(null)' with route pattern 'WebApplication3.styles.css' is valid for the request path '/WebApplication3.styles.css' 
+2025-04-10 10:43:29.3245 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css' 
+2025-04-10 10:43:29.3245 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/WebApplication3.styles.css' 
+2025-04-10 10:43:29.3245 Debug Request matched endpoint '(null)' 
+2025-04-10 10:43:29.3245 Debug Request matched endpoint '(null)' 
+2025-04-10 10:43:29.3245 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3245 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3417 Info Sending file. Request path: 'WebApplication3.styles.css'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\f4wgbepiu1-6lu1x1s5fs.gz' 
+2025-04-10 10:43:29.3417 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3417 Info Request finished HTTP/2 GET https://localhost:44304/WebApplication3.styles.css?v=GraljAiQirUzI9XnuKdLpKSoCrkyLHZItdPpPmW9wrA - 200 1166 text/css 22.2343ms 
+2025-04-10 10:43:29.3417 Info Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\783qsna9z0-46ein0sx1k.gz' 
+2025-04-10 10:43:29.3417 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3417 Info Request starting HTTP/2 GET https://localhost:44304/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - - - 
+2025-04-10 10:43:29.3417 Info Request starting HTTP/2 GET https://localhost:44304/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 
+2025-04-10 10:43:29.3602 Debug 3 candidate(s) found for the request path '/css/site.css' 
+2025-04-10 10:43:29.3602 Debug Endpoint '(null)' with route pattern 'css/site.css' is valid for the request path '/css/site.css' 
+2025-04-10 10:43:29.3602 Debug Endpoint '(null)' with route pattern 'css/site.css' is valid for the request path '/css/site.css' 
+2025-04-10 10:43:29.3602 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/css/site.css' 
+2025-04-10 10:43:29.3602 Debug Request matched endpoint '(null)' 
+2025-04-10 10:43:29.3602 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3602 Info Sending file. Request path: 'css/site.css'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\y1s7yu9eil-b9sayid5wm.gz' 
+2025-04-10 10:43:29.3602 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3602 Info Request finished HTTP/2 GET https://localhost:44304/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 6.0306ms 
+2025-04-10 10:43:29.3602 Info Request starting HTTP/2 GET https://localhost:44304/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - - - 
+2025-04-10 10:43:29.3602 Debug 3 candidate(s) found for the request path '/js/site.js' 
+2025-04-10 10:43:29.3602 Debug Endpoint '(null)' with route pattern 'js/site.js' is valid for the request path '/js/site.js' 
+2025-04-10 10:43:29.3602 Debug Endpoint '(null)' with route pattern 'js/site.js' is valid for the request path '/js/site.js' 
+2025-04-10 10:43:29.3602 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/js/site.js' 
+2025-04-10 10:43:29.3602 Debug Request matched endpoint '(null)' 
+2025-04-10 10:43:29.3602 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3602 Info Sending file. Request path: 'js/site.js'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\fjx8vsb7m8-xtxxf3hu2r.gz' 
+2025-04-10 10:43:29.3602 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3602 Info Request finished HTTP/2 GET https://localhost:44304/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 0.8615ms 
+2025-04-10 10:43:29.3602 Info Request starting HTTP/2 GET https://localhost:44304/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-10 10:43:29.3602 Debug 3 candidate(s) found for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js' 
+2025-04-10 10:43:29.3602 Debug Endpoint '(null)' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js' 
+2025-04-10 10:43:29.3602 Debug Endpoint '(null)' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js' 
+2025-04-10 10:43:29.3602 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js' 
+2025-04-10 10:43:29.3602 Debug Request matched endpoint '(null)' 
+2025-04-10 10:43:29.3602 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3602 Info Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\xnuldfdea4-493y06b0oq.gz' 
+2025-04-10 10:43:29.3602 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3602 Debug Script injected: /_framework/aspnetcore-browser-refresh.js 
+2025-04-10 10:43:29.3602 Info Request finished HTTP/2 GET https://localhost:44304/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript;+charset=utf-8 1.9592ms 
+2025-04-10 10:43:29.3602 Info Request starting HTTP/2 GET https://localhost:44304/_vs/browserLink - - - 
+2025-04-10 10:43:29.3602 Info Request starting HTTP/2 GET https://localhost:44304/lib/jquery/dist/jquery.min.js - - - 
+2025-04-10 10:43:29.3602 Debug 3 candidate(s) found for the request path '/lib/jquery/dist/jquery.min.js' 
+2025-04-10 10:43:29.3602 Debug Endpoint '(null)' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js' 
+2025-04-10 10:43:29.3602 Debug Endpoint '(null)' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js' 
+2025-04-10 10:43:29.3602 Debug Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/jquery/dist/jquery.min.js' 
+2025-04-10 10:43:29.3602 Debug Request matched endpoint '(null)' 
+2025-04-10 10:43:29.3602 Info Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3602 Info Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\user\source\repos\WebApplication3\WebApplication3\obj\Debug\net9.0\compressed\ys5h6wrjvt-o1o13a6vjx.gz' 
+2025-04-10 10:43:29.3602 Info Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint' 
+2025-04-10 10:43:29.3602 Info Request finished HTTP/2 GET https://localhost:44304/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 49.2974ms 
+2025-04-10 10:43:29.3750 Info Request finished HTTP/2 GET https://localhost:44304/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 19.4798ms 
+2025-04-10 10:43:29.3750 Info Request finished HTTP/2 GET https://localhost:44304/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 16.8568ms 
+2025-04-10 10:43:29.4488 Debug Connection ID "17870283327311708163" disconnecting. 
+2025-04-10 10:43:29.4488 Info Request finished HTTP/2 GET https://localhost:44304/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 82.4834ms 
+2025-04-10 10:45:01.1857 Debug Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'. 
+2025-04-10 10:45:01.2089 Debug Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'. 
+2025-04-10 10:45:01.2089 Debug Initializing Razor view compiler with compiled view: '/Views/Home/View.cshtml'. 
+2025-04-10 10:45:01.2089 Debug Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'. 
+2025-04-10 10:45:01.2089 Debug Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'. 
+2025-04-10 10:45:01.2089 Debug Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'. 
+2025-04-10 10:45:01.2089 Debug Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'. 
+2025-04-10 10:45:01.2089 Debug Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'. 
+2025-04-10 10:45:01.2178 Debug Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2025-04-10 10:45:01.2745 Debug Hosting starting 
+2025-04-10 10:45:01.3016 Info User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-04-10 10:45:01.3121 Debug Reading data from file 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys\key-94782030-2be5-4539-a5b3-c3586b104bf2.xml'. 
+2025-04-10 10:45:01.3121 Debug Found key {94782030-2be5-4539-a5b3-c3586b104bf2}. 
+2025-04-10 10:45:01.3276 Debug Considering key {94782030-2be5-4539-a5b3-c3586b104bf2} with expiration date 2025-07-02 10:10:34Z as default key. 
+2025-04-10 10:45:01.3276 Debug Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-04-10 10:45:01.3276 Debug Decrypting secret element using Windows DPAPI. 
+2025-04-10 10:45:01.3276 Debug Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-04-10 10:45:01.3276 Debug Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2025-04-10 10:45:01.3276 Debug Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2025-04-10 10:45:01.3276 Debug Using key {94782030-2be5-4539-a5b3-c3586b104bf2} as the default key. 
+2025-04-10 10:45:01.3276 Debug Key ring with default key {94782030-2be5-4539-a5b3-c3586b104bf2} was loaded during application startup. 
+2025-04-10 10:45:01.3423 Debug Middleware loaded 
+2025-04-10 10:45:01.3423 Debug Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16515 B). 
+2025-04-10 10:45:01.3423 Debug Middleware loaded. Script /_framework/blazor-hotreload.js (799 B). 
+2025-04-10 10:45:01.4885 Debug Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True} 
+2025-04-10 10:45:01.4885 Debug Wildcard detected, all requests with hosts will be allowed. 
+2025-04-10 10:45:01.4982 Debug Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true 
+2025-04-10 10:45:01.5720 Warn The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert 
+2025-04-10 10:45:01.6354 Info Now listening on: https://localhost:7194 
+2025-04-10 10:45:01.6354 Info Now listening on: http://localhost:5212 
+2025-04-10 10:45:01.6372 Debug Loaded hosting startup assembly WebApplication3 
+2025-04-10 10:45:01.6372 Debug Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2025-04-10 10:45:01.6372 Debug Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2025-04-10 10:45:01.6372 Debug Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2025-04-10 10:45:01.6372 Debug Executing API description provider 'EndpointMetadataApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0. 
+2025-04-10 10:45:01.6372 Debug Executing API description provider 'DefaultApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0. 
+2025-04-10 10:45:01.6752 Info Application started. Press Ctrl+C to shut down. 
+2025-04-10 10:45:01.6752 Info Hosting environment: Development 
+2025-04-10 10:45:01.6752 Info Content root path: C:\Users\user\source\repos\WebApplication3\WebApplication3 
+2025-04-10 10:45:01.6752 Debug Hosting started 
+2025-04-10 10:45:01.8215 Debug Connection id "0HNBNTQIN71KG" accepted. 
+2025-04-10 10:45:01.8215 Debug Connection id "0HNBNTQIN71KH" accepted. 
+2025-04-10 10:45:01.8215 Debug Connection id "0HNBNTQIN71KH" started. 
+2025-04-10 10:45:01.8215 Debug Connection id "0HNBNTQIN71KG" started. 
+2025-04-10 10:45:01.8387 Debug Connection id "0HNBNTQIN71KG" received FIN. 
+2025-04-10 10:45:01.8387 Debug Connection id "0HNBNTQIN71KH" received FIN. 
+2025-04-10 10:45:01.8508 Debug Failed to authenticate HTTPS connection. System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-04-10 10:45:01.8508 Debug Failed to authenticate HTTPS connection. System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-04-10 10:45:01.9772 Debug Connection id "0HNBNTQIN71KI" accepted. 
+2025-04-10 10:45:01.9846 Debug Connection id "0HNBNTQIN71KH" stopped. 
+2025-04-10 10:45:01.9846 Debug Connection id "0HNBNTQIN71KI" started. 
+2025-04-10 10:45:01.9846 Debug Connection id "0HNBNTQIN71KG" stopped. 
+2025-04-10 10:45:01.9846 Debug Connection id "0HNBNTQIN71KH" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-04-10 10:45:01.9846 Debug Connection id "0HNBNTQIN71KG" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-04-10 10:45:02.0645 Debug Connection id "0HNBNTQIN71KJ" accepted. 
+2025-04-10 10:45:02.0645 Debug Connection id "0HNBNTQIN71KJ" started. 
+2025-04-10 10:45:02.0645 Debug Connection id "0HNBNTQIN71KI" received FIN. 
+2025-04-10 10:45:02.0645 Debug Connection id "0HNBNTQIN71KJ" received FIN. 
+2025-04-10 10:45:02.1056 Debug Failed to authenticate HTTPS connection. System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-04-10 10:45:02.1056 Debug Connection id "0HNBNTQIN71KI" stopped. 
+2025-04-10 10:45:02.1442 Debug Failed to authenticate HTTPS connection. System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-04-10 10:45:02.1442 Debug Connection id "0HNBNTQIN71KJ" stopped. 
+2025-04-10 10:45:02.1442 Debug Connection id "0HNBNTQIN71KI" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-04-10 10:45:02.1442 Debug Connection id "0HNBNTQIN71KJ" sending FIN because: "The Socket transport's send loop completed gracefully." 

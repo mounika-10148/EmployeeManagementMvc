@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Nlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\views\\home\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\source\\repos\\nlog\\webapplication3\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{714B0052-C4FB-4E87-BF2D-0D51AB8F7A96}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T05:01:52.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T05:01:40.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T04:47:30.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\Home\\View.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\View.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\Home\\View.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T04:39:00.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\nlog.config",
+              "RelativeDocumentMoniker": "WebApplication3\\nlog.config",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\nlog.config",
+              "RelativeToolTip": "WebApplication3\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-03T10:24:20.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApplication3.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T10:21:23.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:19:55.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T05:04:22.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:15:00.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T05:04:24.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T05:05:49.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication3\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T05:13:53.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\nlog.config",
+              "RelativeDocumentMoniker": "WebApplication3\\nlog.config",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Nlog\\WebApplication3\\nlog.config",
+              "RelativeToolTip": "WebApplication3\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-03T10:12:01.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+2025-04-20 13:35:18,275 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7264
+2025-04-20 13:35:18,281 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5098
+2025-04-20 13:35:18,308 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-04-20 13:35:18,308 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-04-20 13:35:18,308 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\user\source\repos\Log4NEx\Log4NEx
+2025-04-20 13:35:19,181 [7] INFO  Log4NetEx.Controllers.HomeController - HomeController constructor called
+2025-04-20 13:35:19,183 [7] INFO  Log4NetEx.Controllers.HomeController - Index action called

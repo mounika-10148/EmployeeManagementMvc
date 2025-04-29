@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\MsTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B79BE67-8F48-4AE5-AFA2-EC29B07143D2}|MsTestProject1\\MsTestProject1.csproj|c:\\users\\user\\source\\repos\\mstest\\mstestproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B79BE67-8F48-4AE5-AFA2-EC29B07143D2}|MsTestProject1\\MsTestProject1.csproj|solutionrelative:mstestproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B79BE67-8F48-4AE5-AFA2-EC29B07143D2}|MsTestProject1\\MsTestProject1.csproj|c:\\users\\user\\source\\repos\\mstest\\mstestproject1\\mstestproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B79BE67-8F48-4AE5-AFA2-EC29B07143D2}|MsTestProject1\\MsTestProject1.csproj|solutionrelative:mstestproject1\\mstestproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B79BE67-8F48-4AE5-AFA2-EC29B07143D2}|MsTestProject1\\MsTestProject1.csproj|c:\\users\\user\\source\\repos\\mstest\\mstestproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B79BE67-8F48-4AE5-AFA2-EC29B07143D2}|MsTestProject1\\MsTestProject1.csproj|solutionrelative:mstestproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2440763F-A32B-4BC5-91A1-1515EC2B24AD}|NunitProject\\NunitProject.csproj|c:\\users\\user\\source\\repos\\mstest\\nunitproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2440763F-A32B-4BC5-91A1-1515EC2B24AD}|NunitProject\\NunitProject.csproj|solutionrelative:nunitproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2440763F-A32B-4BC5-91A1-1515EC2B24AD}|NunitProject\\NunitProject.csproj|c:\\users\\user\\source\\repos\\mstest\\nunitproject\\nunitproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2440763F-A32B-4BC5-91A1-1515EC2B24AD}|NunitProject\\NunitProject.csproj|solutionrelative:nunitproject\\nunitproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8827F87B-9B74-4EBA-BA76-2D3702DD9417}|XunitProject\\XunitProject.csproj|c:\\users\\user\\source\\repos\\mstest\\xunitproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8827F87B-9B74-4EBA-BA76-2D3702DD9417}|XunitProject\\XunitProject.csproj|solutionrelative:xunitproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8827F87B-9B74-4EBA-BA76-2D3702DD9417}|XunitProject\\XunitProject.csproj|c:\\users\\user\\source\\repos\\mstest\\xunitproject\\xunitproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8827F87B-9B74-4EBA-BA76-2D3702DD9417}|XunitProject\\XunitProject.csproj|solutionrelative:xunitproject\\xunitproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3495A8F-3F2F-4D32-AF30-B967D997179C}|MsTest\\MsTest.csproj|c:\\users\\user\\source\\repos\\mstest\\mstest\\service\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3495A8F-3F2F-4D32-AF30-B967D997179C}|MsTest\\MsTest.csproj|solutionrelative:mstest\\service\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3495A8F-3F2F-4D32-AF30-B967D997179C}|MsTest\\MsTest.csproj|c:\\users\\user\\source\\repos\\mstest\\mstest\\mstest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3495A8F-3F2F-4D32-AF30-B967D997179C}|MsTest\\MsTest.csproj|solutionrelative:mstest\\mstest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MsTestProject1",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MsTest\\MsTestProject1\\MsTestProject1.csproj",
+              "RelativeDocumentMoniker": "MsTestProject1\\MsTestProject1.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MsTest\\MsTestProject1\\MsTestProject1.csproj",
+              "RelativeToolTip": "MsTestProject1\\MsTestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T05:45:14.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MsTest\\MsTestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "MsTestProject1\\Test1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MsTest\\MsTestProject1\\Test1.cs",
+              "RelativeToolTip": "MsTestProject1\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T05:44:32.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MsTest\\MsTestProject1\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "MsTestProject1\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MsTest\\MsTestProject1\\MSTestSettings.cs",
+              "RelativeToolTip": "MsTestProject1\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T05:44:28.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NunitProject",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MsTest\\NunitProject\\NunitProject.csproj",
+              "RelativeDocumentMoniker": "NunitProject\\NunitProject.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MsTest\\NunitProject\\NunitProject.csproj",
+              "RelativeToolTip": "NunitProject\\NunitProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T05:28:40.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MsTest\\NunitProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NunitProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MsTest\\NunitProject\\UnitTest1.cs",
+              "RelativeToolTip": "NunitProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T05:27:31.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XunitProject",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MsTest\\XunitProject\\XunitProject.csproj",
+              "RelativeDocumentMoniker": "XunitProject\\XunitProject.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MsTest\\XunitProject\\XunitProject.csproj",
+              "RelativeToolTip": "XunitProject\\XunitProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T05:25:13.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MsTest\\XunitProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "XunitProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MsTest\\XunitProject\\UnitTest1.cs",
+              "RelativeToolTip": "XunitProject\\UnitTest1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T05:24:16.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MsTest\\MsTest\\Service\\Calculator.cs",
+              "RelativeDocumentMoniker": "MsTest\\Service\\Calculator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MsTest\\MsTest\\Service\\Calculator.cs",
+              "RelativeToolTip": "MsTest\\Service\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T05:08:23.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MsTest",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MsTest\\MsTest\\MsTest.csproj",
+              "RelativeDocumentMoniker": "MsTest\\MsTest.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MsTest\\MsTest\\MsTest.csproj",
+              "RelativeToolTip": "MsTest\\MsTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T05:06:18.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<CrudOperations.Models.Entities.Student>	
+
+<h1>Students</h1>
+<table class="table">
+    <tr>
+
+		<th>Name</th>
+		<th>Email</th>
+		<th>Phone</th>
+		<th></th>
+    </tr>
+	<thead>
+		@foreach (var student in Model)
+		{
+			<tr>
+				<td>@student.Name</td>
+				<td>@student.Email</td>
+				<td>@student.Phone</td>
+				<td>
+					<a asp-action="Edit" asp-route-id="@student.Id">Edit</a> |
+					<a asp-action="Delete" asp-route-id="@student.Id">Delete</a>
+				</td>
+			</tr>
+		}
+	</thead>
+</table>

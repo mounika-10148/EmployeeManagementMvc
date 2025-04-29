@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SerilogProject2.props" />
+</Project>

@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\user\\source\\repos\\jwtauthdemo\\jwtauthdemo\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\user\\source\\repos\\jwtauthdemo\\jwtauthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\user\\source\\repos\\jwtauthdemo\\jwtauthdemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\user\\source\\repos\\jwtauthdemo\\jwtauthdemo\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\user\\source\\repos\\jwtauthdemo\\jwtauthdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\user\\source\\repos\\jwtauthdemo\\jwtauthdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\user\\source\\repos\\jwtauthdemo\\jwtauthdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\user\\source\\repos\\jwtauthdemo\\jwtauthdemo\\jwtauthdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\jwtauthdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\user\\source\\repos\\jwtauthdemo\\jwtauthdemo\\validators\\loginmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\validators\\loginmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\user\\source\\repos\\jwtauthdemo\\jwtauthdemo\\jwtauthdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C17A064-EC71-42D9-B3E4-4502950E375F}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\jwtauthdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\appsettings.json",
+              "RelativeToolTip": "JwtAuthDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T10:45:33.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Validators\\LoginModelValidator.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Validators\\LoginModelValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Validators\\LoginModelValidator.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Validators\\LoginModelValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:48:13.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Model\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Model\\LoginModel.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Model\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:46:42.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtAuthDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\JwtAuthDemo.csproj",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\JwtAuthDemo.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\JwtAuthDemo.csproj",
+              "RelativeToolTip": "JwtAuthDemo\\JwtAuthDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T08:45:47.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:44:54.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwC0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:42:46.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Program.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:50:13.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:06:52.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtAuthDemo.http",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\JwtAuthDemo.http",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\JwtAuthDemo.http",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\JwtAuthDemo.http",
+              "RelativeToolTip": "JwtAuthDemo\\JwtAuthDemo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-20T08:49:28.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\WeatherForecast.cs",
+              "RelativeToolTip": "JwtAuthDemo\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:51:49.356Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

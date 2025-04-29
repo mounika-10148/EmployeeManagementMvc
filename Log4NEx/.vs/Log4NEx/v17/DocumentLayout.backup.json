@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Log4NEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3746ADBE-A00E-430F-953E-C031E856EEF3}|Log4NEx\\Log4NEx.csproj|c:\\users\\user\\source\\repos\\log4nex\\log4nex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3746ADBE-A00E-430F-953E-C031E856EEF3}|Log4NEx\\Log4NEx.csproj|solutionrelative:log4nex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3746ADBE-A00E-430F-953E-C031E856EEF3}|Log4NEx\\Log4NEx.csproj|c:\\users\\user\\source\\repos\\log4nex\\log4nex\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3746ADBE-A00E-430F-953E-C031E856EEF3}|Log4NEx\\Log4NEx.csproj|solutionrelative:log4nex\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3746ADBE-A00E-430F-953E-C031E856EEF3}|Log4NEx\\Log4NEx.csproj|c:\\users\\user\\source\\repos\\log4nex\\log4nex\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3746ADBE-A00E-430F-953E-C031E856EEF3}|Log4NEx\\Log4NEx.csproj|solutionrelative:log4nex\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Log4NEx\\Log4NEx\\log4net.config",
+              "RelativeDocumentMoniker": "Log4NEx\\log4net.config",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Log4NEx\\Log4NEx\\log4net.config",
+              "RelativeToolTip": "Log4NEx\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-20T08:03:24.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Log4NEx\\Log4NEx\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Log4NEx\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Log4NEx\\Log4NEx\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Log4NEx\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:00:19.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Log4NEx\\Log4NEx\\Program.cs",
+              "RelativeDocumentMoniker": "Log4NEx\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Log4NEx\\Log4NEx\\Program.cs",
+              "RelativeToolTip": "Log4NEx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:58:53.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DemoAutoMapper.Controllers.WeatherForecastController",
+    "Method": "GetInvoice",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,188 @@
+2025-04-20 11:39:29.198 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2025-04-20 11:39:29.253 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2025-04-20 11:39:29.257 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2025-04-20 11:39:29.258 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2025-04-20 11:39:29.260 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2025-04-20 11:39:29.262 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2025-04-20 11:39:29.266 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2025-04-20 11:39:29.288 +05:30 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-04-20 11:39:29.373 +05:30 [DBG] Hosting starting
+2025-04-20 11:39:29.419 +05:30 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-20 11:39:29.434 +05:30 [DBG] Reading data from file 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys\key-94782030-2be5-4539-a5b3-c3586b104bf2.xml'.
+2025-04-20 11:39:29.469 +05:30 [DBG] Found key {94782030-2be5-4539-a5b3-c3586b104bf2}.
+2025-04-20 11:39:29.551 +05:30 [DBG] Considering key {94782030-2be5-4539-a5b3-c3586b104bf2} with expiration date 2025-07-02 10:10:34Z as default key.
+2025-04-20 11:39:29.575 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-04-20 11:39:29.738 +05:30 [DBG] Decrypting secret element using Windows DPAPI.
+2025-04-20 11:39:29.740 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-04-20 11:39:29.746 +05:30 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2025-04-20 11:39:29.748 +05:30 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2025-04-20 11:39:29.750 +05:30 [DBG] Using key {94782030-2be5-4539-a5b3-c3586b104bf2} as the default key.
+2025-04-20 11:39:29.752 +05:30 [DBG] Key ring with default key {94782030-2be5-4539-a5b3-c3586b104bf2} was loaded during application startup.
+2025-04-20 11:39:29.761 +05:30 [DBG] Middleware loaded
+2025-04-20 11:39:29.764 +05:30 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16515 B).
+2025-04-20 11:39:29.765 +05:30 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-04-20 11:39:29.878 +05:30 [DBG] Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+2025-04-20 11:39:29.881 +05:30 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-04-20 11:39:29.900 +05:30 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-04-20 11:39:30.045 +05:30 [INF] Now listening on: https://localhost:7029
+2025-04-20 11:39:30.046 +05:30 [INF] Now listening on: http://localhost:5066
+2025-04-20 11:39:30.047 +05:30 [DBG] Loaded hosting startup assembly SerilogProject2
+2025-04-20 11:39:30.049 +05:30 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-04-20 11:39:30.049 +05:30 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-04-20 11:39:30.050 +05:30 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-04-20 11:39:30.058 +05:30 [DBG] Executing API description provider 'EndpointMetadataApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+2025-04-20 11:39:30.060 +05:30 [DBG] Executing API description provider 'DefaultApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+2025-04-20 11:39:30.100 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-20 11:39:30.101 +05:30 [INF] Hosting environment: Development
+2025-04-20 11:39:30.102 +05:30 [INF] Content root path: C:\Users\user\source\repos\SerilogProject2\SerilogProject2
+2025-04-20 11:39:30.103 +05:30 [DBG] Hosting started
+2025-04-20 11:39:30.245 +05:30 [DBG] Connection id "0HNBVQ7KRE18H" received FIN.
+2025-04-20 11:39:30.245 +05:30 [DBG] Connection id "0HNBVQ7KRE18I" received FIN.
+2025-04-20 11:39:30.252 +05:30 [DBG] Connection id "0HNBVQ7KRE18I" accepted.
+2025-04-20 11:39:30.252 +05:30 [DBG] Connection id "0HNBVQ7KRE18H" accepted.
+2025-04-20 11:39:30.254 +05:30 [DBG] Connection id "0HNBVQ7KRE18H" started.
+2025-04-20 11:39:30.254 +05:30 [DBG] Connection id "0HNBVQ7KRE18I" started.
+2025-04-20 11:39:30.285 +05:30 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-04-20 11:39:30.286 +05:30 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-04-20 11:39:30.330 +05:30 [DBG] Connection id "0HNBVQ7KRE18H" stopped.
+2025-04-20 11:39:30.333 +05:30 [DBG] Connection id "0HNBVQ7KRE18I" stopped.
+2025-04-20 11:39:30.340 +05:30 [DBG] Connection id "0HNBVQ7KRE18H" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-04-20 11:39:30.340 +05:30 [DBG] Connection id "0HNBVQ7KRE18I" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-04-20 11:39:30.423 +05:30 [DBG] Connection id "0HNBVQ7KRE18J" accepted.
+2025-04-20 11:39:30.441 +05:30 [DBG] Connection id "0HNBVQ7KRE18J" started.
+2025-04-20 11:39:30.485 +05:30 [DBG] Connection id "0HNBVQ7KRE18K" accepted.
+2025-04-20 11:39:30.507 +05:30 [DBG] Connection id "0HNBVQ7KRE18K" started.
+2025-04-20 11:39:30.536 +05:30 [DBG] Connection id "0HNBVQ7KRE18J" received FIN.
+2025-04-20 11:39:30.545 +05:30 [DBG] Connection 0HNBVQ7KRE18J established using the following protocol: "Tls12"
+2025-04-20 11:39:30.546 +05:30 [DBG] Connection 0HNBVQ7KRE18K established using the following protocol: "Tls12"
+2025-04-20 11:39:30.595 +05:30 [DBG] Connection id "0HNBVQ7KRE18J" is closed. The last processed stream ID was 0.
+2025-04-20 11:39:30.602 +05:30 [DBG] The connection queue processing loop for 0HNBVQ7KRE18J completed.
+2025-04-20 11:39:30.612 +05:30 [DBG] Connection id "0HNBVQ7KRE18J" stopped.
+2025-04-20 11:39:30.615 +05:30 [DBG] Connection id "0HNBVQ7KRE18J" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-04-20 11:39:30.645 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7029/ - null null
+2025-04-20 11:39:30.732 +05:30 [DBG] 2 candidate(s) found for the request path '/'
+2025-04-20 11:39:30.744 +05:30 [DBG] Endpoint 'SerilogProject2.Controllers.HomeController.Index (SerilogProject2)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2025-04-20 11:39:30.749 +05:30 [DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' was rejected by constraint 'path':'Microsoft.AspNetCore.Builder.StaticAssetDevelopmentRuntimeHandler+FileExistsConstraint' with value 'null' for the request path '/'
+2025-04-20 11:39:30.751 +05:30 [DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is not valid for the request path '/'
+2025-04-20 11:39:30.753 +05:30 [DBG] Request matched endpoint 'SerilogProject2.Controllers.HomeController.Index (SerilogProject2)'
+2025-04-20 11:39:30.758 +05:30 [INF] Executing endpoint 'SerilogProject2.Controllers.HomeController.Index (SerilogProject2)'
+2025-04-20 11:39:30.798 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SerilogProject2.Controllers.HomeController (SerilogProject2).
+2025-04-20 11:39:30.800 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-04-20 11:39:30.801 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-04-20 11:39:30.803 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-04-20 11:39:30.805 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-04-20 11:39:30.806 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-04-20 11:39:30.814 +05:30 [DBG] Executing controller factory for controller SerilogProject2.Controllers.HomeController (SerilogProject2)
+2025-04-20 11:39:30.816 +05:30 [INF] 📘 HomeController Constructor action called at "2025-04-20T11:39:30.8159355+05:30"
+2025-04-20 11:39:30.820 +05:30 [DBG] Executed controller factory for controller SerilogProject2.Controllers.HomeController (SerilogProject2)
+2025-04-20 11:39:30.821 +05:30 [INF] 📘 Index action called at "2025-04-20T11:39:30.8216543+05:30"
+2025-04-20 11:39:30.829 +05:30 [DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+2025-04-20 11:39:30.836 +05:30 [INF] Executing ViewResult, running view Index.
+2025-04-20 11:39:30.839 +05:30 [DBG] The view path '/Views/Home/Index.cshtml' was found in 10.3579ms.
+2025-04-20 11:39:30.882 +05:30 [DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+2025-04-20 11:39:30.969 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2025-04-20 11:39:30.977 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2025-04-20 11:39:30.982 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2025-04-20 11:39:30.985 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2025-04-20 11:39:30.988 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2025-04-20 11:39:30.989 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2025-04-20 11:39:30.990 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2025-04-20 11:39:30.992 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2025-04-20 11:39:30.994 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2025-04-20 11:39:30.996 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2025-04-20 11:39:30.997 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2025-04-20 11:39:30.998 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2025-04-20 11:39:31.047 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-04-20 11:39:31.054 +05:30 [INF] Executed ViewResult - view Index executed in 227.5357ms.
+2025-04-20 11:39:31.055 +05:30 [INF] Executed action SerilogProject2.Controllers.HomeController.Index (SerilogProject2) in 243.2355ms
+2025-04-20 11:39:31.056 +05:30 [INF] Executed endpoint 'SerilogProject2.Controllers.HomeController.Index (SerilogProject2)'
+2025-04-20 11:39:31.057 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-04-20 11:39:31.074 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7029/ - 200 null text/html; charset=utf-8 443.2765ms
+2025-04-20 11:39:31.098 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7029/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-04-20 11:39:31.099 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7029/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2025-04-20 11:39:31.099 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7029/SerilogProject2.styles.css?v=NC4gH4uCtwRWPyP4nnXQSgdsHxWCSF9vifyQ96lppiY - null null
+2025-04-20 11:39:31.104 +05:30 [DBG] 3 candidate(s) found for the request path '/css/site.css'
+2025-04-20 11:39:31.104 +05:30 [DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+2025-04-20 11:39:31.107 +05:30 [DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+2025-04-20 11:39:31.106 +05:30 [DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+2025-04-20 11:39:31.105 +05:30 [DBG] 3 candidate(s) found for the request path '/SerilogProject2.styles.css'
+2025-04-20 11:39:31.112 +05:30 [DBG] Endpoint 'null' with route pattern 'SerilogProject2.styles.css' is valid for the request path '/SerilogProject2.styles.css'
+2025-04-20 11:39:31.113 +05:30 [DBG] Endpoint 'null' with route pattern 'SerilogProject2.styles.css' is valid for the request path '/SerilogProject2.styles.css'
+2025-04-20 11:39:31.108 +05:30 [DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+2025-04-20 11:39:31.109 +05:30 [DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+2025-04-20 11:39:31.117 +05:30 [DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/css/site.css'
+2025-04-20 11:39:31.117 +05:30 [DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+2025-04-20 11:39:31.115 +05:30 [DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/SerilogProject2.styles.css'
+2025-04-20 11:39:31.120 +05:30 [DBG] Request matched endpoint 'null'
+2025-04-20 11:39:31.121 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.119 +05:30 [DBG] Request matched endpoint 'null'
+2025-04-20 11:39:31.122 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.119 +05:30 [DBG] Request matched endpoint 'null'
+2025-04-20 11:39:31.129 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.156 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\Users\user\source\repos\SerilogProject2\SerilogProject2\obj\Debug\net9.0\compressed\a0dihqo9o7-b9sayid5wm.gz'
+2025-04-20 11:39:31.165 +05:30 [INF] Sending file. Request path: 'SerilogProject2.styles.css'. Physical path: 'C:\Users\user\source\repos\SerilogProject2\SerilogProject2\obj\Debug\net9.0\compressed\ff848ozu99-4ckp71na3h.gz'
+2025-04-20 11:39:31.179 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.179 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.180 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7029/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 81.5988ms
+2025-04-20 11:39:31.181 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7029/SerilogProject2.styles.css?v=NC4gH4uCtwRWPyP4nnXQSgdsHxWCSF9vifyQ96lppiY - 200 1166 text/css 81.8806ms
+2025-04-20 11:39:31.186 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7029/lib/jquery/dist/jquery.min.js - null null
+2025-04-20 11:39:31.187 +05:30 [DBG] 3 candidate(s) found for the request path '/lib/jquery/dist/jquery.min.js'
+2025-04-20 11:39:31.188 +05:30 [DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+2025-04-20 11:39:31.200 +05:30 [DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+2025-04-20 11:39:31.201 +05:30 [DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+2025-04-20 11:39:31.202 +05:30 [DBG] Request matched endpoint 'null'
+2025-04-20 11:39:31.203 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.199 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7029/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-04-20 11:39:31.218 +05:30 [DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+2025-04-20 11:39:31.219 +05:30 [DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+2025-04-20 11:39:31.225 +05:30 [DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+2025-04-20 11:39:31.227 +05:30 [DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+2025-04-20 11:39:31.228 +05:30 [DBG] Request matched endpoint 'null'
+2025-04-20 11:39:31.229 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.374 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7029/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-04-20 11:39:31.387 +05:30 [DBG] 3 candidate(s) found for the request path '/js/site.js'
+2025-04-20 11:39:31.387 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7029/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-20 11:39:31.388 +05:30 [DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+2025-04-20 11:39:31.390 +05:30 [DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+2025-04-20 11:39:31.391 +05:30 [DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/js/site.js'
+2025-04-20 11:39:31.392 +05:30 [DBG] Request matched endpoint 'null'
+2025-04-20 11:39:31.392 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.393 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\Users\user\source\repos\SerilogProject2\SerilogProject2\obj\Debug\net9.0\compressed\kaf2zjva6w-xtxxf3hu2r.gz'
+2025-04-20 11:39:31.394 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.395 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7029/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 21.2823ms
+2025-04-20 11:39:31.413 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\user\source\repos\SerilogProject2\SerilogProject2\obj\Debug\net9.0\compressed\hu5cwc389o-493y06b0oq.gz'
+2025-04-20 11:39:31.450 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\user\source\repos\SerilogProject2\SerilogProject2\obj\Debug\net9.0\compressed\okhp19qr2l-46ein0sx1k.gz'
+2025-04-20 11:39:31.451 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\user\source\repos\SerilogProject2\SerilogProject2\obj\Debug\net9.0\compressed\b5ytcstbvs-o1o13a6vjx.gz'
+2025-04-20 11:39:31.460 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-04-20 11:39:31.469 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.472 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7029/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 85.1763ms
+2025-04-20 11:39:31.471 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.480 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7029/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 294.6208ms
+2025-04-20 11:39:31.473 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7029/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 273.7824ms
+2025-04-20 11:39:31.469 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.490 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7029/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 392.3666ms
+2025-04-20 11:39:31.546 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7029/favicon.ico - null null
+2025-04-20 11:39:31.560 +05:30 [DBG] 3 candidate(s) found for the request path '/favicon.ico'
+2025-04-20 11:39:31.561 +05:30 [DBG] Endpoint 'null' with route pattern 'favicon.ico' is valid for the request path '/favicon.ico'
+2025-04-20 11:39:31.563 +05:30 [DBG] Endpoint 'null' with route pattern 'favicon.ico' is valid for the request path '/favicon.ico'
+2025-04-20 11:39:31.564 +05:30 [DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/favicon.ico'
+2025-04-20 11:39:31.566 +05:30 [DBG] Request matched endpoint 'null'
+2025-04-20 11:39:31.567 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.578 +05:30 [INF] Sending file. Request path: 'favicon.ico'. Physical path: 'C:\Users\user\source\repos\SerilogProject2\SerilogProject2\obj\Debug\net9.0\compressed\5w1eka89qe-61n19gt1b8.gz'
+2025-04-20 11:39:31.581 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-20 11:39:31.582 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7029/favicon.ico - 200 5463 image/x-icon 36.8029ms
+2025-04-20 11:39:33.114 +05:30 [DBG] Connection id "0HNBVQ7KRE18K" received FIN.
+2025-04-20 11:39:33.121 +05:30 [DBG] Connection id "0HNBVQ7KRE18K" is closed. The last processed stream ID was 17.
+2025-04-20 11:39:33.121 +05:30 [DBG] The connection queue processing loop for 0HNBVQ7KRE18K completed.
+2025-04-20 11:39:33.122 +05:30 [DBG] Connection id "0HNBVQ7KRE18K" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-04-20 11:39:33.125 +05:30 [DBG] Connection id "0HNBVQ7KRE18K" stopped.

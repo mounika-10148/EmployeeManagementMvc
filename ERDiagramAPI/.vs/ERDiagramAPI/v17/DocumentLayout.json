@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|c:\\users\\user\\source\\repos\\erdiagramapi\\erdiagramapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|solutionrelative:erdiagramapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|c:\\users\\user\\source\\repos\\erdiagramapi\\erdiagramapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|solutionrelative:erdiagramapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|c:\\users\\user\\source\\repos\\erdiagramapi\\erdiagramapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|solutionrelative:erdiagramapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|c:\\users\\user\\source\\repos\\erdiagramapi\\erdiagramapi\\models\\erdiagramcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|solutionrelative:erdiagramapi\\models\\erdiagramcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|c:\\users\\user\\source\\repos\\erdiagramapi\\erdiagramapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|solutionrelative:erdiagramapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|c:\\users\\user\\source\\repos\\erdiagramapi\\erdiagramapi\\erdiagramapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{522FC649-A9EE-4AB2-8063-E0FB4F6A03A7}|ERDiagramAPI\\ERDiagramAPI.csproj|solutionrelative:erdiagramapi\\erdiagramapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ERDiagramAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ERDiagramAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:38:18.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErdiagramContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\Models\\ErdiagramContext.cs",
+              "RelativeDocumentMoniker": "ERDiagramAPI\\Models\\ErdiagramContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\Models\\ErdiagramContext.cs",
+              "RelativeToolTip": "ERDiagramAPI\\Models\\ErdiagramContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:37:42.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ERDiagramAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "ERDiagramAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:24:48.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ERDiagramAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\appsettings.json",
+              "RelativeToolTip": "ERDiagramAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T10:21:01.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ERDiagramAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\Program.cs",
+              "RelativeToolTip": "ERDiagramAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:20:54.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ERDiagramAPI",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\ERDiagramAPI.csproj",
+              "RelativeDocumentMoniker": "ERDiagramAPI\\ERDiagramAPI.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ERDiagramAPI\\ERDiagramAPI\\ERDiagramAPI.csproj",
+              "RelativeToolTip": "ERDiagramAPI\\ERDiagramAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T10:08:41.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

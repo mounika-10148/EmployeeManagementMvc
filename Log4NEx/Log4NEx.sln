@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NEx", "Log4NEx\Log4NEx.csproj", "{3746ADBE-A00E-430F-953E-C031E856EEF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3746ADBE-A00E-430F-953E-C031E856EEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3746ADBE-A00E-430F-953E-C031E856EEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3746ADBE-A00E-430F-953E-C031E856EEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3746ADBE-A00E-430F-953E-C031E856EEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE1874D1-ED99-40E4-94F0-CBF673FFC3E7}
+	EndGlobalSection
+EndGlobal
